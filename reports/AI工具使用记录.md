@@ -880,6 +880,7 @@
 - `.gitignore` 已调整为保留必要交付材料，同时继续忽略虚拟环境、运行日志、大体量原始模拟数据和中间结果
 - `data/external/论文材料.md` 已补齐论文基础信息
 - 研究报告、AI 使用记录、图表、表格和代码入口之间的路径关系已完成一次提交前整理
+- 已完成首次 GitHub 推送，远端仓库为 `git@github.com:wty-bot/-Monte-Carlo-PSM-DID.git`，主分支为 `main`
 
 ---
 
